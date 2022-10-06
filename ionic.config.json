@@ -1,0 +1,7 @@
+{
+  "name": "WrapperApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
